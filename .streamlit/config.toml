@@ -1,0 +1,19 @@
+[browser]
+gatherUsageStats = false
+
+[deprecation]
+showPyplotGlobalUse = false
+
+[logger]
+level = "error"
+
+[runner]
+fastReruns = true
+magicEnabled = false
+
+[theme]
+backgroundColor = "#282a36"
+base = "dark"
+primaryColor = "#e37792"
+secondaryBackgroundColor = "#44475a"
+textColor = "#f8f8f8"

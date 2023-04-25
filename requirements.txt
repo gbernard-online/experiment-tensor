@@ -1,0 +1,17 @@
+mypy
+pylint
+yapf
+
+emoji
+
+matplotlib
+
+numpy
+pandas
+
+scikit-learn
+
+keras
+tensorflow
+
+streamlit==1.21.0

@@ -1,0 +1,14 @@
+[format]
+
+indent-after-paren = 2
+indent-string = '  '
+max-line-length = 120
+
+[message control]
+
+disable = consider-using-f-string, eval-used, invalid-character-zero-width-space, missing-function-docstring,
+missing-module-docstring
+
+[reports]
+
+score = no
